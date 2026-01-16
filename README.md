@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Bammidi Pragati Rao 👋 
 
-<!--
-**bpragatirao/bpragatirao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### System Developer | M.Tech Data Science @ NITK | AI & Automation Expert
 
-Here are some ideas to get you started:
+I am a software engineer with **2+ years of professional experience** in enterprise automation and system development. Currently, I am pursuing my **M.Tech in Data Science at NITK**, where I am focused on the intersection of Generative AI, Machine Learning, and scalable system architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 M.Tech Journey at NITK
+Currently diving deep into the mathematical and algorithmic foundations of AI:
+- 🧪 **Research:** Exploring Python libraries for advanced ML and AI toolsets.
+- 🛠️ **Current Stack:** Python (NumPy, Pandas, Scikit-Learn, Matplotlib, etc.), Jupyter, and AI model optimization.
+
+## 💼 Professional Experience (2 Years)
+Before starting my M.Tech, I worked on enterprise-grade automation and AI integration:
+- **BPM & RPA:** Expert in **PEGA BPM** and **UiPath** for streamlining complex business processes.
+- **Conversational & GenAI:** Developed intelligent interfaces using **Kore.ai** and **Search.ai** for responsive and generative AI solutions.
+- **Web Development:** Built responsive web architectures as part of full-stack system development.
+
+## 🏆 Achievements
+- **Hackathon Winner:** Multiple-time winner during my Bachelor’s degree, focusing on innovative problem-solving and rapid prototyping.
+
+---
+
+## 🛠️ Technical Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Science** | Python, ML/AI Libraries, SQL |
+| **Automation** | PEGA BPM, UiPath RPA (Robotic Process Automation) |
+| **AI Tools** | Kore.ai (Responsive AI), Search.ai (Generative AI) |
+| **Web Dev** | HTML5, CSS3, React JavaScript, System Architecture |
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [https://www.linkedin.com/in/pragati-rao-bammidi]
+- **Alternate Email:** [pragatiraobammidi@gmail.com]
