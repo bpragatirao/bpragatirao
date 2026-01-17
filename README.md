@@ -35,9 +35,6 @@ Before starting my M.Tech, I worked on enterprise-grade automation and AI integr
 
 ## 📈 GitHub Stats 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bpragatirao&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bpragatirao&theme=tokyonight)
-
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bpragatirao&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
@@ -54,9 +51,10 @@ I am actively sharpening my problem-solving skills to bridge the gap between Sys
 - **LeetCode Archive:** [Explore my Solution Library 📂](https://github.com/bppragatirao/Leetcode-Archive)
 - **Current Goal:** Mastering Dynamic Programming and Graph Algorithms for ML optimization.
 - **Automation:** This repository is auto-synced via LeetHub to ensure a consistent record of my progress.
+
 | Platform | Profile Link | Status Card |
 | :--- | :--- | :--- |
-| **LeetCode** | [View Profile](https://leetcode.com/BPragatiRao/) | ![LeetCode Stats](https://leetcard.jacoblin.cool/BPragatiRao?theme=light&font=Assistant&ext=activity) | 
+| **LeetCode** | [View Profile](https://leetcode.com/BPragatiRao/) | ![LeetCode Stats](https://leetcard.jacoblin.cool/BPragatiRao?theme=light&font=Assistant&ext=activity) |
 
 ### 🌐 Find me on: Badges
 
