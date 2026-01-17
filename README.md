@@ -33,6 +33,33 @@ Before starting my M.Tech, I worked on enterprise-grade automation and AI integr
 
 ---
 
+## 📈 GitHub Stats 
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=[bpragatirao]&show_icons=true&theme=tokyonight) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[bpragatirao]&layout=compact&theme=tokyonight) 
+
+---
+
+## 🏆 Coding Milestones
+
+### LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/[BPragatiRao]?theme=light&font=Assistant&ext=activity)
+
+### 🌐 Find me on: Badges
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/[BPragatiRao])
+
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/[bpragatirao])
+
+---
+
+## 📄 Resume
+[Download my professional Resume](https://github.com/bpragatirao/bpragatirao/blob/main/Resume_PragatiRao.pdf)
+
+---
+
 ### 📫 Connect with me:
 - **LinkedIn:** [https://www.linkedin.com/in/pragati-rao-bammidi]
 - **Alternate Email:** [pragatiraobammidi@gmail.com]
