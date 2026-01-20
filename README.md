@@ -39,7 +39,7 @@ Before starting my M.Tech, I worked on enterprise-grade automation and AI integr
 
 ## Hacker-Rank Stats
 
-[![HackerRank Stats](https://hackerrank-stats-api.vercel.app/api/stats/bpragatirao)](https://www.hackerrank.com/bpragatirao)
+[![HackerRank Stats](https://hackerrank-stats-api.vercel.app/api/stats/bpragatirao)]([https://www.hackerrank.com/bpragatirao](https://www.hackerrank.com/profile/bpragatirao))
 
 ---
 
