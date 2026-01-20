@@ -37,6 +37,10 @@ Before starting my M.Tech, I worked on enterprise-grade automation and AI integr
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bpragatirao&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## Hacker-Rank Stats
+
+[![HackerRank Stats](https://hackerrank-stats-api.vercel.app/api/stats/bpragatirao)](https://www.hackerrank.com/bpragatirao)
+
 ---
 
 ## 🏆 Coding Milestones
@@ -55,10 +59,6 @@ I am actively sharpening my problem-solving skills to bridge the gap between Sys
 | Platform | Profile Link | Status Card |
 | :--- | :--- | :--- |
 | **LeetCode** | [View Profile](https://leetcode.com/BPragatiRao/) | ![LeetCode Stats](https://leetcard.jacoblin.cool/BPragatiRao?theme=light&font=Assistant&ext=activity) |
-
-### 🌐 Find me on: Badges
-
-[![HackerRank Stats](https://hackerrank-stats-api.vercel.app/api/stats/@bpragatirao)](https://www.hackerrank.com/@bpragatirao)
 
 ---
 
