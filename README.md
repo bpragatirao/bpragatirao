@@ -37,10 +37,6 @@ Before starting my M.Tech, I worked on enterprise-grade automation and AI integr
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bpragatirao&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Hacker-Rank Stats
-
-[![HackerRank Stats](https://hackerrank-stats-api.vercel.app/api/stats/bpragatirao)]([https://www.hackerrank.com/bpragatirao](https://www.hackerrank.com/profile/bpragatirao))
-
 ---
 
 ## 🏆 Coding Milestones
