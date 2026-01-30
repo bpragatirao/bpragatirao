@@ -65,4 +65,5 @@ I am actively sharpening my problem-solving skills to bridge the gap between Sys
 
 ### 📫 Connect with me:
 - **LinkedIn:** [https://www.linkedin.com/in/pragati-rao-bammidi]
+- **Website:** [[https://bpragatirao-portfolio-ai.bolt.host](https://bpragatirao-portfolio-ai.bolt.host)]
 - **Alternate Email:** [pragatiraobammidi@gmail.com]
