@@ -41,10 +41,6 @@ Before starting my M.Tech, I worked on enterprise-grade automation and AI integr
 
 ## 🏆 Coding Milestones
 
-### LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/[BPragatiRao]?theme=Dark&font=Assistant&ext=activity)
-
 ### Coding Challenges & Progress 
 
 I am actively sharpening my problem-solving skills to bridge the gap between System Development and Data Science. 
