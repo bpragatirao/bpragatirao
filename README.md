@@ -43,7 +43,7 @@ Before starting my M.Tech, I worked on enterprise-grade automation and AI integr
 
 ### LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=BPragatiRao&theme=Dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/[BPragatiRao]?theme=Dark&font=Assistant&ext=activity)
 
 ### Coding Challenges & Progress 
 
