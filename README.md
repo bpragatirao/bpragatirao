@@ -44,7 +44,7 @@ Before starting my M.Tech, I worked on enterprise-grade automation and AI integr
 ### Coding Challenges & Progress 
 
 ## 🧩 LeetCode Progress
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=BPragatiRao&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/BPragatiRao?theme=dark&font=Recursive&ext=activity)
 
 I am actively sharpening my problem-solving skills to bridge the gap between System Development and Data Science. 
 - **LeetCode Archive:** [Explore my Solution Library 📂](https://github.com/bppragatirao/Leetcode-Archive)
