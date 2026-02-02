@@ -43,9 +43,6 @@ Before starting my M.Tech, I worked on enterprise-grade automation and AI integr
 
 ### Coding Challenges & Progress 
 
-## 🧩 LeetCode Progress
-![LeetCode Metrics](https://github-readme-stats.vercel.app/api/leetcode?username=BPragatiRao&theme=vision-glow)
-
 I am actively sharpening my problem-solving skills to bridge the gap between System Development and Data Science. 
 - **LeetCode Archive:** [Explore my Solution Library 📂](https://github.com/bppragatirao/Leetcode-Archive)
 - **Current Goal:** Mastering Dynamic Programming and Graph Algorithms for ML optimization.
