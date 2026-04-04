@@ -55,7 +55,7 @@ I am actively sharpening my problem-solving skills to bridge the gap between Sys
 ---
 
 ## 📄 Resume
-[Download my professional Resume](https://github.com/bpragatirao/bpragatirao/blob/main/Resume_PragatiRao.pdf)
+[Download my professional Resume](https://github.com/bpragatirao/bpragatirao/blob/main/BPragatiRao_Resume_AI.pdf)
 
 ---
 
