@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="380" viewBox="0 0 800 380">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;display=swap');
+    
+    .terminal-bg {
+      fill: #0d1117;
+      stroke: #30363d;
+      stroke-width: 1px;
+    }
+    
+    .title-bar {
+      fill: #161b22;
+    }
+    
+    .title-text {
+      fill: #8b949e;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+    }
+    
+    .term-text {
+      font-family: 'Fira Code', Consolas, Monaco, 'Courier New', monospace;
+      font-size: 14px;
+      font-weight: 500;
+    }
+    
+    .prompt {
+      fill: #8b949e;
+    }
+    
+    .cmd {
+      fill: #7ee787;
+    }
+    
+    .output {
+      fill: #e6edf3;
+    }
+    
+    .purple-output {
+      fill: #d2a8ff;
+    }
+    
+    .cursor {
+      fill: #7ee787;
+      animation: blink 0.8s infinite;
+    }
+    
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    
+    @keyframes line-1 { 0%, 3.2% { opacity: 0; } 3.3%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-2 { 0%, 9.9% { opacity: 0; } 10%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-3 { 0%, 16.6% { opacity: 0; } 16.7%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-4 { 0%, 23.2% { opacity: 0; } 23.3%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-5 { 0%, 29.9% { opacity: 0; } 30%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-6 { 0%, 36.6% { opacity: 0; } 36.7%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-7 { 0%, 43.2% { opacity: 0; } 43.3%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-8 { 0%, 49.9% { opacity: 0; } 50%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-9 { 0%, 56.6% { opacity: 0; } 56.7%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-10 { 0%, 63.2% { opacity: 0; } 63.3%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-11 { 0%, 69.9% { opacity: 0; } 70%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-12 { 0%, 76.6% { opacity: 0; } 76.7%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    @keyframes line-13 { 0%, 83.2% { opacity: 0; } 83.3%, 93.3% { opacity: 1; } 96.7%, 100% { opacity: 0; } }
+    
+    .l1 { animation: line-1 15s infinite; }
+    .l2 { animation: line-2 15s infinite; }
+    .l3 { animation: line-3 15s infinite; }
+    .l4 { animation: line-4 15s infinite; }
+    .l5 { animation: line-5 15s infinite; }
+    .l6 { animation: line-6 15s infinite; }
+    .l7 { animation: line-7 15s infinite; }
+    .l8 { animation: line-8 15s infinite; }
+    .l9 { animation: line-9 15s infinite; }
+    .l10 { animation: line-10 15s infinite; }
+    .l11 { animation: line-11 15s infinite; }
+    .l12 { animation: line-12 15s infinite; }
+    .l13 { animation: line-13 15s infinite; }
+  </style>
+
+  <!-- Terminal Window Background -->
+  <rect class="terminal-bg" width="800" height="380" rx="8" ry="8" />
+
+  <!-- Terminal Title Bar -->
+  <path class="title-bar" d="M 0,8 A 8,8 0 0 1 8,0 H 792 A 8,8 0 0 1 800,8 V 30 H 0 Z" />
+  
+  <!-- Title Bar Buttons (macOS Style) -->
+  <circle cx="18" cy="15" r="6" fill="#ff5f56" />
+  <circle cx="38" cy="15" r="6" fill="#ffbd2e" />
+  <circle cx="58" cy="15" r="6" fill="#27c93f" />
+  
+  <!-- Title Text -->
+  <text class="title-text" x="400" y="20" text-anchor="middle">bpragatirao — bash</text>
+
+  <!-- Terminal Content -->
+  <g class="term-text" xml:space="preserve">
+    <!-- Line 1: whoami -->
+    <text x="25" y="60" class="l1">
+      <tspan class="prompt">bpragatirao@macbook ~ % </tspan><tspan class="cmd">whoami</tspan>
+    </text>
+    
+    <!-- Line 2: whoami output -->
+    <text x="25" y="80" class="l2 output">Bammidi Pragati Rao</text>
+    
+    <!-- Line 3: cat education -->
+    <text x="25" y="110" class="l3">
+      <tspan class="prompt">bpragatirao@macbook ~ % </tspan><tspan class="cmd">cat education.txt</tspan>
+    </text>
+    
+    <!-- Line 4 & 5: education output -->
+    <text x="25" y="130" class="l4 output">- Masters in Computational &amp; Data Sciences @ NITK Surathkal (2025 - Present)</text>
+    <text x="25" y="150" class="l5 output">- Bachelors in Computer Science &amp; Engineering @ Sri Sairam College (2019 - 2023)</text>
+    
+    <!-- Line 6: cat experience -->
+    <text x="25" y="180" class="l6">
+      <tspan class="prompt">bpragatirao@macbook ~ % </tspan><tspan class="cmd">cat experience.txt</tspan>
+    </text>
+    
+    <!-- Line 7 & 8: experience output -->
+    <text x="25" y="200" class="l7 output">- Software Engineer @ Tata Consultancy Services (TCS) (Aug 2023 - Sept 2025)</text>
+    <text x="25" y="220" class="l8 output">- Front-End Web Development Intern @ SuperBolter (Dec 2021 - Apr 2022)</text>
+    
+    <!-- Line 9: cat skills -->
+    <text x="25" y="250" class="l9">
+      <tspan class="prompt">bpragatirao@macbook ~ % </tspan><tspan class="cmd">cat skills.txt</tspan>
+    </text>
+    
+    <!-- Line 10: skills output -->
+    <text x="25" y="272" class="l10 output">- Python, SQL, JS | ML, NLP, LLMs, PEGA BPM, UiPath RPA, React, Flask</text>
+    
+    <!-- Line 11: echo status -->
+    <text x="25" y="302" class="l11">
+      <tspan class="prompt">bpragatirao@macbook ~ % </tspan><tspan class="cmd">echo $STATUS</tspan>
+    </text>
+    
+    <!-- Line 12: status output -->
+    <text x="25" y="324" class="l12 purple-output">"Bridging the gap between System Development and Data Science."</text>
+    
+    <!-- Line 13: Final Prompt and Cursor -->
+    <text x="25" y="354" class="l13">
+      <tspan class="prompt">bpragatirao@macbook ~ % </tspan><tspan class="cursor">█</tspan>
+    </text>
+  </g>
+</svg>
