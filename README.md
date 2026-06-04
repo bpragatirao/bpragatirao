@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0d1117,1a1a2e,0f3460,4facfe&amp;height=150&amp;section=header&amp;text=Bammidi%20Pragati%20Rao&amp;fontSize=30&amp;fontColor=ffffff&amp;desc=System%20Developer%20%7C%20Data%20Scientist%20%7C%20AI%20%26%20Automation%20Expert&amp;descAlign=56&amp;descSize=15&amp;descColor=e8e8f0" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1a1a2e,0f3460,4facfe&height=150&section=header&text=Bammidi%20Pragati%20Rao&fontSize=30&fontColor=ffffff&desc=System%20Developer%20%7C%20Data%20Scientist%20%7C%20AI%20%26%20Automation%20Expert&descAlign=56&descSize=15&descColor=e8e8f0" width="100%" alt="Header Banner"/>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=4FACFE&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=M.Tech+Data+Science+Student+%40+NITK;Former+Software+Engineer+%40+TCS;AI+%26+Automation+Architect;Generative+AI+%26+NLP+Researcher;Full+Stack+System+Developer" alt="Typing Roles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=550&lines=M.Tech+Data+Science+Student+%40+NITK;Former+Software+Engineer+%40+TCS;AI+%26+Automation+Architect;Generative+AI+%26+NLP+Researcher;Full+Stack+System+Developer" alt="Typing Roles"/>
 </p>
 
 <!-- Terminal SVG Section -->
@@ -18,21 +18,21 @@
 <!-- Social Badges Row -->
 <p align="center">
   <a href="https://linkedin.com/in/pragati-rao-bammidi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://bpragatirao-portfolio-ai.bolt.host" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=about.me&amp;logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:bammidipragatirao.252cd005@nitk.edu.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/bpragatirao" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/BPragatiRao/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <img src="https://komarev.com/profile-counter/?username=bpragatirao&amp;color=4facfe&amp;style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/profile-counter/?username=bpragatirao&color=4facfe&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <br/>
@@ -63,7 +63,7 @@
   <table border="0">
     <tr>
       <td><strong>Current Focus</strong></td>
-      <td>📚 Advanced Machine Learning &amp; Generative AI model optimization at NITK Surathkal</td>
+      <td>📚 Advanced Machine Learning & Generative AI model optimization at NITK Surathkal</td>
     </tr>
     <tr>
       <td><strong>Key Project</strong></td>
@@ -87,20 +87,20 @@
   <table>
     <tr>
       <td align="center">
-        <strong>Languages &amp; Libraries</strong><br/>
-        <img src="https://skillicons.dev/icons?i=py,js,html,css&amp;theme=dark" alt="Languages"/>
+        <strong>Languages & Libraries</strong><br/>
+        <img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" alt="Languages"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <strong>Backend &amp; Frontend Frameworks</strong><br/>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,flask&amp;theme=dark" alt="Frameworks"/>
+        <strong>Backend & Frontend Frameworks</strong><br/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,flask&theme=dark" alt="Frameworks"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <strong>Databases &amp; Tools</strong><br/>
-        <img src="https://skillicons.dev/icons?i=postgres,git,vscode,postman&amp;theme=dark" alt="Tools"/>
+        <strong>Databases & Tools</strong><br/>
+        <img src="https://skillicons.dev/icons?i=postgres,git,vscode,postman&theme=dark" alt="Tools"/>
       </td>
     </tr>
   </table>
@@ -183,16 +183,16 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=bpragatirao&amp;show_icons=true&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=4facfe&amp;icon_color=4facfe&amp;text_color=e6edf3&amp;border_color=30363d" alt="GitHub Stats" height="195"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=bpragatirao&show_icons=true&theme=dark&bg_color=0d1117&title_color=4facfe&icon_color=4facfe&text_color=e6edf3&border_color=30363d" alt="GitHub Stats" height="195"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpragatirao&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=4facfe&amp;icon_color=4facfe&amp;text_color=e6edf3&amp;border_color=30363d" alt="Top Languages" height="195"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpragatirao&layout=compact&theme=dark&bg_color=0d1117&title_color=4facfe&icon_color=4facfe&text_color=e6edf3&border_color=30363d" alt="Top Languages" height="195"/>
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpragatirao&amp;theme=tokyonight&amp;background=0d1117&amp;fire=a855f7&amp;ring=4facfe&amp;currStreakLabel=a855f7&amp;border=30363d" alt="GitHub Streak Stats" /><br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bpragatirao&amp;theme=tokyonight&amp;bg_color=0d1117&amp;color=4facfe&amp;line=4facfe&amp;point=a855f7&amp;area=true&amp;hide_border=true" width="100%" alt="Github Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpragatirao&theme=tokyonight&background=0d1117&fire=a855f7&ring=4facfe&currStreakLabel=a855f7&border=30363d" alt="GitHub Streak Stats" /><br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bpragatirao&theme=tokyonight&bg_color=0d1117&color=4facfe&line=4facfe&point=a855f7&area=true&hide_border=true" width="100%" alt="Github Activity Graph"/>
 </div>
 
 <br/>
@@ -207,7 +207,7 @@
     <tr>
       <td align="center" valign="middle">
         <a href="https://leetcode.com/BPragatiRao/" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/BPragatiRao?theme=dark&amp;font=Assistant&amp;ext=activity" alt="LeetCode Stats" width="400"/>
+          <img src="https://leetcard.jacoblin.cool/BPragatiRao?theme=dark&font=Assistant&ext=activity" alt="LeetCode Stats" width="400"/>
         </a>
       </td>
       <td align="center" valign="middle">
@@ -242,20 +242,20 @@
   <p><em>I am always open to discussing new opportunities, Generative AI research, automation architectures, or just geeking out about tech!</em></p>
   <p align="center">
     <a href="https://linkedin.com/in/pragati-rao-bammidi" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://bpragatirao-portfolio-ai.bolt.host" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=about.me&amp;logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="mailto:bammidipragatirao.252cd005@nitk.edu.in" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-  </g>
+  </p>
 </div>
 
 <br/>
 
 <!-- Waving Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=4facfe,161b22,0d1117&amp;height=120&amp;section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4facfe,161b22,0d1117&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </p>
