@@ -1,6 +1,7 @@
-<!-- Header Banner -->
+<h1 align="center">Bammidi Pragati Rao 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1a1a2e,0f3460,4facfe&height=150&section=header&text=Bammidi%20Pragati%20Rao&fontSize=30&fontColor=ffffff&desc=System%20Developer%20%7C%20Data%20Scientist%20%7C%20AI%20%26%20Automation%20Expert&descAlign=56&descSize=15&descColor=e8e8f0" width="100%" alt="Header Banner"/>
+  <strong>System Developer | Data Scientist | AI & Automation Expert</strong>
 </p>
 
 <!-- Typing SVG -->
@@ -180,18 +181,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=bpragatirao&show_icons=true&theme=dark&bg_color=0d1117&title_color=4facfe&icon_color=4facfe&text_color=e6edf3&border_color=30363d" alt="GitHub Stats" height="195"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpragatirao&layout=compact&theme=dark&bg_color=0d1117&title_color=4facfe&icon_color=4facfe&text_color=e6edf3&border_color=30363d" alt="Top Languages" height="195"/>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpragatirao&theme=tokyonight&background=0d1117&fire=a855f7&ring=4facfe&currStreakLabel=a855f7&border=30363d" alt="GitHub Streak Stats" /><br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bpragatirao&theme=tokyonight&bg_color=0d1117&color=4facfe&line=4facfe&point=a855f7&area=true&hide_border=true" width="100%" alt="Github Activity Graph"/>
 </div>
 
@@ -254,8 +243,3 @@
 </div>
 
 <br/>
-
-<!-- Waving Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4facfe,161b22,0d1117&height=120&section=footer" width="100%" alt="Footer Banner"/>
-</p>
