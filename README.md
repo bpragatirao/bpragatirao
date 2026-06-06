@@ -36,7 +36,6 @@
   <a href="https://github.com/bpragatirao/bpragatirao/blob/main/Resume_BPragatiRao_CDS.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
-  <img src="https://komarev.com/profile-counter/?username=bpragatirao&color=4facfe&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <br/>
