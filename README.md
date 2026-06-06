@@ -33,6 +33,9 @@
   <a href="https://leetcode.com/BPragatiRao/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  <a href="https://github.com/bpragatirao/bpragatirao/blob/main/Resume_BPragatiRao_CDS.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
   <img src="https://komarev.com/profile-counter/?username=bpragatirao&color=4facfe&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -238,6 +241,9 @@
     </a>
     <a href="mailto:bammidipragatirao.252cd005@nitk.edu.in" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/bpragatirao/bpragatirao/blob/main/Resume_BPragatiRao_CDS.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
     </a>
   </p>
 </div>
